@@ -6,7 +6,7 @@ public class Main {
         x++;
         ++x;
         System.out.println(x);
-        // i hope d
+        // i hope
     }
 
 }
