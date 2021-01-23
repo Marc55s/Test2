@@ -11,4 +11,8 @@ public class Main {
         //I dont know methods
         // and more stuff
     }
+    void nothing() {
+        System.out.println("nothing");
+
+    }
 }
