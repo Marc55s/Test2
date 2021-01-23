@@ -2,17 +2,10 @@ package com.marc;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello");
-        //Comment
-        System.out.println("master again");
-
-        System.out.println("Local");
-        //Master and also latest version
-        //I dont know methods
-        // and more stuff
+        int x = 0;
+        x++;
+        ++x;
+        System.out.println(x);
     }
-    void nothing() {
-        System.out.println("nothing");
 
-    }
 }
