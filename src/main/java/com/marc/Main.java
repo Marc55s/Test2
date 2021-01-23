@@ -9,4 +9,8 @@ public class Main {
         System.out.println("Local");
         //Master and also latest version
     }
+    void nothing() {
+        System.out.println("nothing");
+
+    }
 }
