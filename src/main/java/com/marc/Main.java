@@ -2,14 +2,11 @@ package com.marc;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello");
-        //Comment
-        System.out.println("master again");
+        // Lets do a loop
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
 
-        System.out.println("Local");
-        //Master and also latest version
-        //I dont know methods
-        // and more stuff
+        }
     }
     void nothing() {
         System.out.println("nothing");
