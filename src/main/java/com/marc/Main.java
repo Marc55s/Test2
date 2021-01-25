@@ -10,9 +10,15 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 40; j++) {
                 p.setLocation(i, j);
-                System.out.print("#");
+                if(p.equals(block))
+                    System.out.print("#");
             }
             System.out.println();
         }
+        clear();
+    }
+
+    public static void clear() {
+        System.out.println("/n");
     }
 }
