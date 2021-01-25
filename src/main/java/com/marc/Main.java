@@ -21,4 +21,8 @@ public class Main {
     public static void clear() {
         System.out.println("/n");
     }
+
+    public static void bullshit() {
+        System.out.println("bullshit");
+    }
 }
