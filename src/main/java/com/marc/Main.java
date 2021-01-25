@@ -11,7 +11,8 @@ public class Main {
             for (int j = 0; j < 40; j++) {
                 p.setLocation(i,j);
                 System.out.print("#");
-                if(p.equals(block)) System.out.print("U");
+                if(p.equals(block))
+                    System.out.print("U");
             }
             System.out.println();
         }
