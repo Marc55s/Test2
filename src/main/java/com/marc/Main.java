@@ -17,5 +17,9 @@ public class Main {
         }
     }
 
+    public void test() {
+        //Comment this is unused
+    }
+
 
 }
